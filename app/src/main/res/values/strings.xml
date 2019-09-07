@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Thongbao_luu">“Chào mừng bạn đăng nhập hệ thống, thông tin của bạn đã được lưu”</string>
+    <string name="Thongbao_kluu">“Chào mừng bạn đăng nhập hệ thống, thông tin của bạn không được lưu” </string>
+</resources>
